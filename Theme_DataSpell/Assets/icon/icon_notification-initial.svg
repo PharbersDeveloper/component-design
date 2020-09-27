@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_notification-initial</title>
+    <g id="icon_notification-initial" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" points="0 0 20 0 20 20 0 20"></polygon>
+        <g id="Group" transform="translate(4.000000, 3.000000)" fill="#FFFFFF">
+            <path d="M6,15 C6.825,15 7.5,14.3076923 7.5,13.4615385 L4.5,13.4615385 C4.5,14.3076923 5.1675,15 6,15 Z M10.5,10.3846154 L10.5,6.53846154 C10.5,4.17692308 9.27,2.2 7.125,1.67692308 L7.125,0 L4.875,0 L4.875,1.67692308 C2.7225,2.2 1.5,4.16923077 1.5,6.53846154 L1.5,10.3846154 L0,11.9230769 L0,12.6923077 L12,12.6923077 L12,11.9230769 L10.5,10.3846154 Z" id="Shape-Copy"></path>
+        </g>
+    </g>
+</svg>

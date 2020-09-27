@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_notification-new</title>
+    <g id="icon_notification-new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" points="0 0 20 0 20 20 0 20"></polygon>
+        <g id="Group" transform="translate(3.000000, 2.000000)">
+            <path d="M7.5,14.4615385 C7.5,15.3076923 6.825,16 6,16 C5.1675,16 4.5,15.3076923 4.5,14.4615385 L4.5,14.4615385 Z M7.125,1 L7.12492259,2.00426374 C7.04336484,2.32259947 7,2.65623554 7,3 C7,5.03096602 8.51363481,6.70840368 10.4743637,6.96577223 C10.4916807,7.15262941 10.5,7.34424477 10.5,7.53846154 L10.5,7.53846154 L10.5,11.3846154 L12,12.9230769 L12,13.6923077 L0,13.6923077 L0,12.9230769 L1.5,11.3846154 L1.5,7.53846154 C1.5,5.16923077 2.7225,3.2 4.875,2.67692308 L4.875,2.67692308 L4.875,1 L7.125,1 Z M8.00131403,2.9938457 C9.15069979,3.56050287 9.93803274,4.6164542 10.2904459,5.91436113 C8.97580048,5.59653538 8,4.41222289 8,3 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <circle id="Oval-Copy-3" fill="#4DDB86" cx="11" cy="3" r="3"></circle>
+        </g>
+    </g>
+</svg>
